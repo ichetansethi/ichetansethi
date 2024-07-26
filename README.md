@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chetan Sethi
-- 👀 I’m interested in Data    
+- 👀 I’m interested in Data and Development   
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me: chetansethi58@gmail.com or https://www.linkedin.com/in/chetansethi23/
